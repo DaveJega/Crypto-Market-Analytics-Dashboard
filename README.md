@@ -1,9 +1,10 @@
 # Crypto-Market-Analytics-Dashboard-1
 This project is a real-time Crypto Market Analytics Dashboard built in Power BI using the CoinGecko API.  The dashboard tracks cryptocurrency prices, market capitalization, trading volume, and historical trends for major coins such as Bitcoin, Ethereum, SUI, TON, and Hyperliquid.
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
-![Dashboard Screenshot](dashboard2.png)
-![Dashboard Screenshot](dashboard3.png)
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/b48107f8-5267-49cc-9b54-561fff35cce8" />
+<img width="1920" height="1080" alt="dashboard2" src="https://github.com/user-attachments/assets/9dadc5ff-296f-4884-8866-797da95bfc7c" />
+<img width="1920" height="1080" alt="dashboard3" src="https://github.com/user-attachments/assets/b1a3fb4f-7338-4387-9ece-f117c6a375b0" />
+
 ## Tools & Technologies
 - Power BI
 - Power Query
